@@ -34,7 +34,7 @@ jobs:
         run: flutter analyze
 
       - name: Activate Coverage
-        run: dart pub global activate coverage 1.3.1 # Does not work with 1.3.2
+        run: dart pub global activate coverage
 
       # Project needs to have tests in test/ and a dependency on
       # package:test for this step to succeed.
