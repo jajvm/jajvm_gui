@@ -49,3 +49,4 @@ app.*.map.json
 
 # Local development overrides
 pubspec_overrides.yaml
+.fvm/flutter_sdk
