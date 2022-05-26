@@ -2,7 +2,7 @@ name: jajvm_gui
 description: A new Flutter project.
 
 # Prevent accidental publishing to pub.dev.
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -15,7 +15,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   jajvm_core:
-    git: git@github.com:jajvm/jajvm_core.git
+    git: https://github.com/jajvm/jajvm_core
 
 dev_dependencies:
   flutter_test:
