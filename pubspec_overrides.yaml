@@ -1,0 +1,3 @@
+dependencies_overrides:
+  jajvm_core:
+    path: ../jajvm_core
